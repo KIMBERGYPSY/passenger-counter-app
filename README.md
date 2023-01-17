@@ -1,6 +1,6 @@
 # coe1747b7aff9aade2ae578a3
 
-Quick start:
+Quick start: My first Java Script project through scrimba
 
 ```
 $ npm install
